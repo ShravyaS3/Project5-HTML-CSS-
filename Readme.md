@@ -19,3 +19,7 @@ I have done this ProJect using HTML & CSS
 ![Badge](https://img.shields.io/badge/-Below%20is%20the%20Live--Link-informational)
 
 [Live-Link](https://project5-htmlcss.netlify.app/)
+
+![Thumbnail](./thumbnail.png)
+
+
